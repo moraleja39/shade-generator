@@ -1,20 +1,15 @@
 {
   "compilerOptions": {
     "baseUrl": "./",
-    "lib": ["ESNext"],
-    "module": "CommonJS",
-    "target": "ES6",
+    "module": "ESNext",
+    "target": "ESNext",
 
-    "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "resolveJsonModule": true,
-    "moduleResolution": "node",
+    "moduleResolution": "Node",
     "strict": true,
-
-    "outDir": "./dist",
-    "declaration": true
   },
   "include": ["./src"],
   "exclude": ["node_modules", "dist"]
