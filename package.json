@@ -1,5 +1,5 @@
 {
-  "name": "shade-generator",
+  "name": "@moraleja39/shade-generator",
   "version": "1.2.7",
   "description": "Generate tints and shades easily.",
   "type": "module",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaorr3/shade-generator.git"
+    "url": "git+https://github.com/moraleja39/shade-generator.git"
   },
   "keywords": [
     "color",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/joaorr3/shade-generator/issues"
   },
-  "homepage": "https://github.com/joaorr3/shade-generator#readme",
+  "homepage": "https://github.com/moraleja39/shade-generator#readme",
   "devDependencies": {
     "typescript": "^5.4.5",
     "unbuild": "latest"
